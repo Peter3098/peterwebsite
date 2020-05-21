@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Peter Website</title>     
+    <style>
+        body {background-color: lightpink;}
+        h1 { color: dodgerblue; font-family: monospace; font-size: 30px; background-color:            burlywood; margin: 50px; padding: 15px; text-align: center; }
+         h2 { color: darkorange; font-family: monospace; font-size: 20px; margin: 50px; text-align: center; }
+         a { background-color: antiquewhite; padding: 5px;}
+         h3 { color: dodgerblue; font-family: monospace; font-size: 24px; margin: 50px; padding: 15px; text-align: center; }
+         p { color: dodgerblue; font-family: monospace; font-size: 18px; background-color: burlywood; margin: 50px; padding: 15px; text-align: left; }
+        img { margin: 50px; }  
+    </style>
+</head>
+
+ <body> 
+     <h2>
+     <a href="index.html">HOME</a>
+    <a href="gallery.html">GALLERY</a> 
+     <a href="aboutme.html">ABOUT ME</a>
+     <a href="PSA.html">PSA</a>
+     </h2>
+     <h1> Welcome to Peter Reyes ePortfolio </h1>
+        <h3> Welcome to my website Howdy !!! </h3>
+    <img src= "images/26272474520_bb36679a33_w.jpg" alt="hello image" width="400px" />
+  
+    <p>Hi my name is Peter and this is my first website one I created from scratch during this quarantine so welcome to my first website and ill be showing whover gets to view this things ive done for my multimedia class such as my projects. A little introduction about me well im 22 years old living in new york specifically staten island shout out to wu tang clan and I go to Borough of manhattan community college my major is animation and motion graphics and I have no idea what im doing but its pretty fun so far so thats about it !!!  </p>
+    </body>
+    <h4>Copyright	© 2020 Peter Reyes - All Rights	Reserved</h4>
+ </html>
